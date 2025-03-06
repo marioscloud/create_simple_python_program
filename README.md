@@ -22,7 +22,7 @@ Follow these steps to get started with the lab:
    python3 --version
    ```
    - You should see output similar to this, though the versions may be different:
-    Python 3.11.2
+    Python 3.12.3
    - Install the numpy package.
      python3.11 -m pip install numpy
 
