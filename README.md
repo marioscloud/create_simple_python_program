@@ -29,13 +29,14 @@ Follow these steps to get started with the lab:
      touch python_program1.py
      ```
    - Open the file in your console and write a simple Python program:
-   - 
+     ```bash
      import numpy as np
      a = np.array([1,2])
      b = np.array([3,4])
      c = a + b
      print(c)
-
+     ```
+     
 3. **Execute the Program**:
    - Run the Python program using the terminal:
      ```bash
