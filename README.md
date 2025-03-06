@@ -26,17 +26,20 @@ Follow these steps to get started with the lab:
 2. **Create a Simple Python Program Using Bash**:
    - In the terminal, create a new Python file (e.g., `hello_world.py`):
      ```bash
-     touch hello_world.py
+     touch python_program1.py
      ```
-   - Open the file in your IDE and write a simple Python program:
-     ```python
-     print("Hello, World!")
-     ```
+   - Open the file in your console and write a simple Python program:
+   - 
+     import numpy as np
+     a = np.array([1,2])
+     b = np.array([3,4])
+     c = a + b
+     print(c)
 
 3. **Execute the Program**:
    - Run the Python program using the terminal:
      ```bash
-     python hello_world.py
+     python python_program1.py
      ```
 
 4. **Edit the Source Code and Re-run the Program**:
