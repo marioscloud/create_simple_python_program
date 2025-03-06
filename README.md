@@ -43,11 +43,9 @@ Follow these steps to get started with the lab:
      python python_program1.py
      ```
 
-4. **Edit the Source Code and Re-run the Program**:
-   - Make changes to the Python file (e.g., modify the print statement).
-   - Save the changes and re-run the program to see the updated output:
+4. **You will get the following output!**:
      ```bash
-     python hello_world.py
+     [4 6]
      ```
 
 ## Additional Resources
