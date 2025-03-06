@@ -23,8 +23,10 @@ Follow these steps to get started with the lab:
    ```
    - You should see output similar to this, though the versions may be different:
     Python 3.12.3
-   - Install the numpy package.
-     python3.11 -m pip install numpy
+   - Install the numpy package:
+   ```bash
+   python3.12 -m pip install numpy
+   ```
 
 2. **Create a Simple Python Program Using Bash**:
    - In the terminal, create a new Python file (e.g., `hello_world.py`):
