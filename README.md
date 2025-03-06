@@ -17,10 +17,11 @@ Follow these steps to get started with the lab:
 
 1. **Install a Package Using Terminal**:
    - Open the terminal.
-   - Use `pip` to install the required library:
-     ```bash
-     pip install <library-name>
-     ```
+   - Verify that python is installed.
+   - You should see output similar to this, though the versions may be different:
+    Python 3.11.2
+   - Install the numpy package.
+     python3.11 -m pip install numpy
 
 2. **Create a Simple Python Program Using Bash**:
    - In the terminal, create a new Python file (e.g., `hello_world.py`):
