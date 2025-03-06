@@ -18,9 +18,10 @@ Follow these steps to get started with the lab:
 1. **Install a Package Using Terminal**:
    - Open the terminal.
    - Verify that python is installed:
-      ```bash
+     ```bash
     python3 --version
      ```
+     
    - You should see output similar to this, though the versions may be different:
     Python 3.11.2
    - Install the numpy package.
