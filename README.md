@@ -56,7 +56,7 @@ Follow these steps to get started with the lab:
 - [Python Documentation](https://docs.python.org/3/)
 - [IBM DevOps and Software Engineering Professional Certificate](https://www.ibm.com/training/certification/)
 
-Feel free to explore additional features of the IDE and experiment with your Python code. Happy coding!
+Feel free to explore additional features and experiment with your Python code. Happy coding!
 
 ## License
 
